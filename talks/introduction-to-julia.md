@@ -12,6 +12,10 @@ fontsize: 10pt
 
 - Julia started in 2009
 
+- Julia: Living in a Geekster's paradise...
+
+- "Walks like Python, runs like C"
+
 - Big idea: 2 language problem
 
 ![](https://raw.githubusercontent.com/ScPo-CompEcon/CoursePack/gh-pages/Markdown/intro/stack.png){ height=40% }
@@ -151,5 +155,7 @@ Clone package to `~/.julia/dev/ShaleDrillingLikelihood` or `C:\Users\username\Ap
 - [Quantecon Lectures](https://lectures.quantecon.org/jl/)
 
 - [Julia Cheat Sheet](https://juliadocs.github.io/Julia-Cheat-Sheet/)
+
+- [Chapter on Julia by Jesús Fernández-Villaverde](https://www.sas.upenn.edu/~jesusfv/Chapter_HPC_8_Julia.pdf)
 
 # References
